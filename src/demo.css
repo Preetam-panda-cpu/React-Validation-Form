@@ -1,0 +1,22 @@
+.container {
+    display: table-caption;
+    border: 1px solid;
+    padding: 61px;
+    margin-left: 651px;
+}
+input#fname {
+    margin-bottom: 9px;
+}
+textarea#subject {
+    margin-bottom: 13px;
+}
+h1{
+    position: relative;
+    margin-left: 693px;
+    margin-top: 25px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.gender{
+    padding-bottom: 15px;
+}
