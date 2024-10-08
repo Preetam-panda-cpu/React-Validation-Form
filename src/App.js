@@ -9,7 +9,7 @@ class App extends Component {
           <><div>
             <header><h1>Contact Us Form</h1></header>
           </div>
-          <div class="container">
+          <div className="container">
               <form>
               <label for="fname">First Name</label>
               <input type="text" id="fname" name="firstname" placeholder="Your name.."></input>
